@@ -18,8 +18,8 @@ just a test about github
 > 引用
 > 引用2
 
-_ 1
-_ 2
+- 1
+- 2
 
 1. 文本
 2. 文本
